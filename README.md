@@ -27,7 +27,7 @@ Ce projet utilise Maven pour la gestion des dépendances (notamment Jackson pour
 
 1.  **Clôner le dépôt :**
     ```bash
-    git clone [https://github.com/](https://github.com/)[VOTRE_NOM_UTILISATEUR]/gestContact.git
+    git clone https://github.com/VOTRE_NOM_UTILISATEUR/gestContact.git
     cd gestContact
     ```
 
