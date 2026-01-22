@@ -2,7 +2,7 @@
 
 > Gestionnaire de Contacts en Console
 
-Projet simple d'application console en Java pour gérer un répertoire téléphonique personnel. Ce projet est un **"kata" d'apprentissage** délibéré, axé sur la maîtrise des principes fondamentaux de l'ingénierie logicielle Java, de la gestion des I/O modernes (`java.nio.file`) à la sérialisation JSON (Jackson).
+Projet simple d'application console en Java pour gérer un répertoire téléphonique personnel. L'objectif technique est axé sur la maîtrise des principes fondamentaux de l'ingénierie logicielle Java, de la gestion des I/O modernes (`java.nio.file`) à la sérialisation JSON (Jackson).
 
 ---
 
