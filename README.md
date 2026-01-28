@@ -45,4 +45,4 @@ Ce projet utilise Maven pour la gestion des dépendances (notamment Jackson pour
 
 ---
 
-*Ce projet est développé dans le cadre d'un parcours d'apprentissage pour devenir Ingénieur Logiciel de Qualité.*
+*Développé par Charly Keuni.*
