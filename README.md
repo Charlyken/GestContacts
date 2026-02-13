@@ -45,4 +45,6 @@ Ce projet utilise Maven pour la gestion des dépendances (notamment Jackson pour
 
 ---
 
-*Développé par Charly Keuni.*
+<div align="center">
+  <i>Développé par Charly Keuni.</i>
+</div>
